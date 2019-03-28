@@ -1,0 +1,6 @@
+# Ignore files and documents
+.vscode
+ngrok
+auth/credentials.json
+test.py
+__pycache__

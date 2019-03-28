@@ -1,1 +1,1 @@
-# stocktext
+# StockText
